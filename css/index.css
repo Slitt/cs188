@@ -1,0 +1,129 @@
+#row-1 {
+	width: 100%;
+	height: 65%;
+}
+
+#row-2 {
+	width: 100%;
+	height: 35%;
+}
+
+
+
+span#bg-carnivora {
+	width: 25%;
+	height: 100%;
+	float: left;
+	background-image: url('../img/carnivora/coyote-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-carnivora:hover {
+	background-image: url('../img/carnivora/coyote-1-light.jpg');
+}
+
+
+
+span#bg-soricomorpha {
+	width: 25%;
+	height: 50%;
+	float: left;
+	background-image: url('../img/soricomorpha/shrew-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-soricomorpha:hover {
+	background-image: url('../img/soricomorpha/shrew-1-light.jpg');
+}
+
+
+
+span#bg-chiroptera {
+	width: 25%;
+	height: 50%;
+	float: left;
+	background-image: url('../img/chiroptera/bat-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-chiroptera:hover {
+	background-image: url('../img/chiroptera/bat-1-light.jpg');
+}
+
+
+
+span#bg-marsupialia {
+	width: 25%;
+	height: 50%;
+	float: right;
+	background-image: url('../img/marsupialia/opossum-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-marsupialia:hover {
+	background-image: url('../img/marsupialia/opossum-1-light.jpg');
+}
+
+
+
+span#bg-sirenia {
+	width: 25%;
+	height: 50%;
+	float: right;
+	background-image: url('../img/sirenia/manatee-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-sirenia:hover {
+	background-image: url('../img/sirenia/manatee-1-light.jpg');
+}
+
+
+
+span#bg-cetartiodactyla {
+	width: 25%;
+	height: 100%;
+	float: right;
+	background-image: url('../img/cetartiodactyla/deer-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-cetartiodactyla:hover {
+	background-image: url('../img/cetartiodactyla/deer-1-light.jpg');
+}
+
+
+
+span#bg-rodentia {
+	width: 50%;
+	height: 100%;
+	float: left;
+	background-image: url('../img/rodentia/rat-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-rodentia:hover {
+	background-image: url('../img/rodentia/rat-1-light.jpg');
+}
+
+
+
+span#bg-lagomorpha {
+	width: 50%;
+	height: 100%;
+	float: right;
+	background-image: url('../img/lagomorpha/rabbit-1-dark.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+span#bg-lagomorpha:hover {
+	background-image: url('../img/lagomorpha/rabbit-1-light.jpg');
+}
